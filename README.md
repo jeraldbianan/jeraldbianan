@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jeraldbianan
+- 👀 I’m interested in becominga full stack web developer 😊
+- 🌱 I’m currently learning front end Web Development, currently studying VUE.js📗, but will also learn React.js📘 and Angular.js📙 
+- 💞️ I’m looking to collaborate on anything that is related to Front End Web development
+- 📫 How to reach me, you can reach me at jeraldbianan@gmail.com
