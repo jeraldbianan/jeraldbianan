@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jeraldbianan
-- 👀 I’m interested in becoming a full stack web developer 😊
-- 🌱 I’m currently learning front end Web Development, currently studying VUE.js📗, but will also learn React.js📘 and Angular.js📙. Once i got very familiar with Front End that's the time i will commit in learning back-end in order for me to reach my goal as a Full Stack Web Developer
-- 💞️ I’m looking to collaborate on anything that is related to Front End Web development
-- 📫 How to reach me, you can reach me at jeraldbianan@gmail.com
+- 👋 Hello! I'm Jerald
+- 👀 My Ultimate goal is to become a Front-end Web Development Expert
+- 🌱 I’m currently studying VUE.js📗 and Quasar
+- 💞️ I’m looking to collaborate on anything that is related to Front End Web development that is using Vue3 and Quasar
+- 📫 you can reach me at jeraldbianan@gmail.com
