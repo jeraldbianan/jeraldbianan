@@ -1,3 +1,3 @@
-- 👋 Hello! I'm Jerald and I am a Full Stack Web Developer
+- 👋 Hello! I'm Jerald and I am a Front-End Web Developer
 - 🌱 I’m using VUE.js📗 and Quasar for the Front-End and Firebase for the Back-end
 - 📫 you can reach me at jeraldbianan@gmail.com
