@@ -1,3 +1,3 @@
 - 👋 Hello! I'm Jerald and I am a Front-End Web Developer
-- 🌱 I’m using VUE.js📗 and Quasar for the Front-End and Firebase for the Back-end
+- 🌱 I mainly use 📗Vue.js and Quasar
 - 📫 you can reach me at jeraldbianan@gmail.com
