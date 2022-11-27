@@ -1,3 +1,2 @@
 - 👋 Hello! I'm Jerald and I am a Front-End Web Developer
-- 🌱 I mainly use 📗Vue.js and Quasar
-- 📫 you can reach me at jeraldbianan@gmail.com
+- 🌱 I mainly use 📗Vue.js
