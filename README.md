@@ -1,2 +1,1 @@
-- 👋 Hello! I'm Jerald and I am a Front-End Web Developer
-- 🌱 I mainly use 📗Vue.js
+- 👋 Hello! I'm Jerald and I am a Web Developer
